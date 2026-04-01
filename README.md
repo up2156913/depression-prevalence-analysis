@@ -25,7 +25,7 @@ The dataset explores the relationship between mental health and various demograp
 
 ```
 .
-├── UP2156913.ipynb          # Main analysis notebook
+├── depression.ipynb          # Main analysis notebook
 ├── depression_data.csv      # Dataset (not tracked — download from Kaggle)
 ├── requirements.txt         # Python dependencies
 └── README.md
@@ -35,18 +35,18 @@ The dataset explores the relationship between mental health and various demograp
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/IDTA-Coursework.git
+git clone https://github.com/up2156913/depression-prevalence-analysis
 cd IDTA-Coursework
 
 # Install dependencies
 pip install -r requirements.txt
 
 # Launch the notebook
-jupyter notebook UP2156913.ipynb
+jupyter notebook depression.ipynb
 ```
 
 > **Note:** Download the dataset from [Kaggle](https://www.kaggle.com/datasets/ikynahidwin/depression-professional-dataset/data) and place the CSV file in the project root before running the notebook.
 
 ## Author
 
-**UP2156913**
+**Rasheed**
